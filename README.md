@@ -4,7 +4,7 @@
 
 ## 1. Clone the Repository
 ```
-git clone https://github.com/your-username/flask_email_app.git
+git clone https://github.com/dineshsolankii/Flask-Email-App.git
 cd flask_email_app
 ```
 
